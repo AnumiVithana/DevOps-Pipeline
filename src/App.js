@@ -8,7 +8,7 @@ function App() {
         {/* Header Section */}
         <header className="mb-16 border-b border-stone-300 pb-8">
           <h1 className="text-5xl md:text-6xl font-bold mb-4 tracking-tight">
-            Vision & Perspective
+            Anumi Vithana
           </h1>
           <p className="text-2xl text-stone-600">
             A visual storytelling photography portfolio.
