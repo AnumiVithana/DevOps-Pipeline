@@ -11,7 +11,7 @@ function App() {
             Vision & Perspective
           </h1>
           <p className="text-2xl text-stone-600">
-            A visual storytelling portfolio.
+            A visual storytelling photography portfolio.
           </p>
         </header>
 
